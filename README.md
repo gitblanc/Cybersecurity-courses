@@ -7,5 +7,7 @@
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+ [![HitCount](https://hits.dwyl.com/gitblanc/Cibersecurity-courses.svg?style=flat-square)](http://hits.dwyl.com/gitblanc/Cibersecurity-courses)
+
 Hi :-)
 This is a repository where i'll post all of the courses that i'll do about cibersecurity
