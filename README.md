@@ -9,5 +9,3 @@
 
 Hi :-)
 This is a repository where i'll post all of the courses that i'll do about cibersecurity
-
-Enjoy it :-)
